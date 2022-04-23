@@ -1,0 +1,18 @@
+.nav-bar{
+    background-color: rgb(107, 165, 20);
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
+.logo h2 {
+   color: white;
+   letter-spacing: 1px;
+}
+.ul li {
+    display: inline;
+    margin: 20px;
+    color: white;
+
+}
+

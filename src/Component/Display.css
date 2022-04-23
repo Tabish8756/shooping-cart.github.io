@@ -1,0 +1,44 @@
+.main-display{
+    display:grid;
+grid-template-columns:300px;
+margin-top: 20px;
+
+
+
+    
+}
+.display{
+    display:flex;
+    flex-direction: column;
+    width:100%;
+    margin-top: 10px;
+  
+
+}
+.display img{
+    width: 100%;
+}
+.data{
+    text-align: center;
+}
+.button{
+    background-color:  rgb(107, 165, 20);
+    border: none;
+    padding: 10px 20px;
+    margin-top:10px ;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.button:hover{
+    cursor: pointer;
+   
+}
+@media(max-width:659px){
+    .main-display{
+        display:grid;
+grid-template-columns:200px;
+margin-top: 20px;
+    }
+}
