@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shooping-cart.github.io/static/css/main.09de2fbb.css",
+    "main.js": "/shooping-cart.github.io/static/js/main.638914d1.js",
+    "index.html": "/shooping-cart.github.io/index.html",
+    "main.09de2fbb.css.map": "/shooping-cart.github.io/static/css/main.09de2fbb.css.map",
+    "main.638914d1.js.map": "/shooping-cart.github.io/static/js/main.638914d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09de2fbb.css",
+    "static/js/main.638914d1.js"
+  ]
+}
